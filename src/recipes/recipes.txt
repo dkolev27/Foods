@@ -1,0 +1,59 @@
+RN:
+Mediterranean Grain Salad
+
+Products:
+1-cup medium grind bulgur-23-12-43-423-0.50
+1-tsp salt-23-12-43-423-0.50
+1-cup boiling water-23-12-43-423-0.50
+1-coarse salt and ground pepper-23-12-43-423-0.50
+2-cups grape tomatoes-23-12-43-423-0.50
+0.5-cup fresh parsley, chopped-23-12-43-423-0.50
+0.5-small shallot-23-12-43-423-0.50
+1-table spoon red wine vinegar-23-12-43-423-0.50
+2-teaspoon olive oil-23-12-43-423-0.50
+1-fresh goat cheese-23-12-43-423-0.50
+<endProducts>
+
+Instructions:
+In a heatproof bowl, mix bulgur with salt and boiling water. Cover, and let stand until tender but slightly chewy, about 30 minutes.
+Drain bulgur in a fine-mesh sieve, pressing to remove liquid; return to bowl. Add tomatoes, parsley, shallot, vinegar, and oil. Season with salt and pepper, and toss. Top with cheese.
+<endInstructions>
+
+Max portions:
+35
+
+Price per portion:
+12.50
+<endRecipe>
+
+RN:
+Spicy salmon onigirazu
+
+Products:
+1-cup cooked sushi rice-23-12-43-423-0.50
+1-tbsp rice vinegar-23-12-43-423-0.50
+2-tsp sugar-23-12-43-423-0.50
+0.5-tsp salt-23-12-43-423-0.50
+1-tbsp mayonnaise-23-12-43-423-0.50
+1-tsp chili sause-23-12-43-423-0.50
+0.5-cup boiling water-23-12-43-423-0.50
+1-can salmon-23-12-43-423-0.50
+2-radishes-23-12-43-423-0.50
+1-sheet nori-23-12-43-423-0.50
+<endProducts>
+
+Instructions:
+In a small bowl, microwave vinegar, sugar, and salt on high for 20-30 seconds. Stir until salt and sugar have dissolved. While rice is still warm, add vinegar and stir for a minute or two to combine.
+In a medium bowl, stir together mayo, chili sauce, and sesame oil until combined. Season with salt to taste. Break up salmon into small pieces and add to sauce. Mix well.
+To assemble, place a piece of plastic wrap on a cutting board. Place nori sheet on top, shiny side down.
+Start by wetting your hands and taking half the rice and shaping into a dense square-shaped patty. Place in the middle of the nori, then layer lettuce, radish, salmon, lettuce, and finally top with remaining rice.
+Bring one corner of the nori to the center of the filling, then bring up the opposite corner. Be firm so that the nori closes well around the filling, but don't be so rough that the nori breaks. Repeat with remaining corners until they all meet in the center
+Wrap plastic wrap tightly around onigirazu. Refrigerate for a few minutes to soften the nori. Wet a sharp knife and cut onigirazu in half. Unwrap and enjoy.
+<endInstructions>
+
+Max portions:
+20
+
+Price per portion:
+17.00
+<endRecipe>
